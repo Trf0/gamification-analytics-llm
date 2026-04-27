@@ -1,6 +1,6 @@
-#Requirements for the project
-
-For this project it´s necessary the configuration of 3 major´s groups:
-
-## 1.Drive
-
+pandas
+gspread
+google-api-python-client
+google-auth
+requests
+python-dotenv
